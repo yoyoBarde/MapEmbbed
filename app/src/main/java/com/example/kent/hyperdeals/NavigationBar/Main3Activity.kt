@@ -14,8 +14,8 @@ import android.support.v7.app.AppCompatActivity
 import android.view.Menu
 import android.view.MenuItem
 import com.example.kent.hyperdeals.FragmentActivities.FragmentCategory
-import com.example.kent.hyperdeals.FragmentActivities.FragmentProMapList
 import com.example.kent.hyperdeals.FragmentActivities.FragmentProMap
+import com.example.kent.hyperdeals.FragmentActivities.FragmentProMapList
 import com.example.kent.hyperdeals.NavigationOptionsActivity.Profile
 import com.example.kent.hyperdeals.R
 import com.google.firebase.auth.FirebaseAuth

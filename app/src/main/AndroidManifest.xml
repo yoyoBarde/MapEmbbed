@@ -4,9 +4,7 @@
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
-
-
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
 
     <application
         android:allowBackup="true"
@@ -33,12 +31,16 @@
             android:name=".NavigationOptionsActivity.Profile"
             android:label="@string/title_activity_profile"
             android:theme="@style/AppTheme" />
-        <activity android:name=".NavigationOptionsActivity.Notifications"></activity>
-  <!--      <activity android:name=".FragmentActivities.FragmentProMapList" />-->
+        <activity android:name=".NavigationOptionsActivity.Notifications" />
+        <!-- <activity android:name=".FragmentActivities.FragmentProMapList" /> -->
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyADCR_8nz3vr0LJ_6c_VAIpwFCwzL_KfPI" />
+            android:value="AIzaSyCq7iQPkshrFBsA3bJlpZXAzIAEgjPp1sg" />
+
+        <activity
+            android:name=".ProMapActivity"
+            android:label="@string/title_activity_pro_map"></activity>
     </application>
 
 </manifest>

@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "639208212877-335vc7797loai36q2ghrh4uniptuni11.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kent.hyperdeals",
+            "certificate_hash": "813b712811f88d30eb7a66d294e0aa2f7a92ff0b"
+          }
+        },
+        {
           "client_id": "639208212877-ke1fqtu1rva12flva2r01khg8etj5vgd.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
